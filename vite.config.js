@@ -6,7 +6,7 @@ import viteCompression from "vite-plugin-compression";
 // https://vitejs.dev/config/
 export default ({ mode }) =>
   defineConfig({
-    best: '/site-status/',
+    bese: '/site-status/',
     plugins: [
       react(),
       // PWA
